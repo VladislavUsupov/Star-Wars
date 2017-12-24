@@ -1,0 +1,6 @@
+[{"id":"0", "name":"Cat", "image":"images/jedies/1.png", "power":"10", "speed":"2"},
+{"id":"1", "name":"Ray", "image":"images/jedies/2.png", "power":"20", "speed":"3"},
+{"id":"2", "name":"Jedi", "image":"images/jedies/3.png", "power":"40", "speed":"5"},
+{"id":"3", "name":"GreenJedi", "image":"images/jedies/4.png", "power":"60", "speed":"8"},
+{"id":"4", "name":"Vader", "image":"images/jedies/5.png", "power":"80", "speed":"10"},
+{"id":"5", "name":"Sith", "image":"images/jedies/6.png", "power":"100", "speed":"14"}]

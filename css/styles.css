@@ -1,0 +1,161 @@
+body {
+    background: url(../images/backgrounds_robot.jpg) no-repeat;
+    background-attachment: fixed;
+    background-position: center, top;
+    background-size: cover;
+    background-color: dimgrey;
+
+    font-family:'Verdana';
+    text-align: center;
+    font-size: 15pt;
+    margin: 0;
+}
+
+h1 {
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul li {
+    display: inline;
+}
+
+ul {
+    margin: 0;
+    padding: 2% 0;
+    font-size: 0;
+}
+
+.menu {
+    display: inline-block;
+    width: 64%;
+    background-color: dimgrey;
+}
+
+.menu_button {
+    font-size: large;
+    padding: 2% 8%;
+    color: white;
+
+}
+
+.menu_selected-button {
+    font-size: large;
+    color: #353535;
+    background-color: #BDC3C7;
+    padding: 2% 8%;
+    pointer-events: none;
+}
+
+.menu_button:hover {
+    background: #D3D3D3;
+    color:antiquewhite;
+}
+
+.header {
+
+    background-color: dimgrey;
+}
+
+.title {
+    text-align: center;
+    width: 28%;
+    display: inline-block;
+}
+
+.start {
+    margin-top: 5%;
+    padding: 15% 0;
+}
+
+.start__button{
+    top:50%;
+    left: 50%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: dimgrey;
+    line-height: 200px;
+    text-align: center;
+    font-size: 18pt;
+    color: white;
+    border-radius: 100px;
+    margin-top: -100px;
+    margin-left: -100px;
+    font-family:'Verdana';
+    font-weight:bold;
+    text-decoration: none;
+}
+
+.start__button:hover {
+    background: #D3D3D3;
+    color:antiquewhite;
+}
+
+.page-top {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 60%;
+    background-color: dimgrey;
+    opacity: 0.95;
+    padding: 2% 5%;
+    text-align: left;
+    font-size: large;
+}
+
+.about{
+    text-align: center;
+}
+
+.about__text{
+    font-size: 15pt;
+    margin: 20px;
+}
+
+.about__image{
+}
+
+
+.jedi {
+    width: 150px;
+    height: 150px;
+}
+
+.image-jedi {
+    width: 100%;
+}
+
+th {
+    padding: 12px;
+    text-align: center;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.game {
+    margin: 5%;
+    background-color: dimgrey;
+    padding: 4% 5%;
+    font-size: large;
+    height: 500px;
+}
+
+.game_over {
+    margin: 5% 20%;
+    background-color: dimgrey;
+    opacity: 0.95;
+    padding: 10%;
+}
+
+
